@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💣 My Bomberman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dullhipolito/dullhipolito/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dullhipolito/dullhipolito/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/dullhipolito/dullhipolito/output/bomberman-contribution-graph.svg">
+</picture>
